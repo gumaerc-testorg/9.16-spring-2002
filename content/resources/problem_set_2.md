@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9267c7fb-9546-6718-0532-0ff035e99822
 resourcetype: Document
 title: 'Problem Set #2'
 uid: cfd7e3b8-231e-2425-0dad-a390062537ca
