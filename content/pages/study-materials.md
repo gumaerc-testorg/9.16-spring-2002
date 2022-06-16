@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides questions used to guide students through the readings
+  and presentations for this class. They are designed to help students read any scientific
+  journal article critically, and to prepare them for a career in biophysics and neurophysiology
+  research.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
