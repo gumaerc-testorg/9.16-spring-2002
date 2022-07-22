@@ -7,6 +7,7 @@ file: /courses/9-16-cellular-neurophysiology-spring-2002/482583d70edb55ef1813e89
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Problem Set #4'
 uid: 482583d7-0edb-55ef-1813-e8956c172e2e
 ---
 Assignment to build a model of a plastic synapse and investigate the effects of presynaptic stimulation at different frequencies on synaptic potentiation and depression. 
-
