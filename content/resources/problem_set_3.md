@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on the kinetic properties of AMPA and NMDA receptors.
-file: /ol-ocw-studio-app/courses/9-16-cellular-neurophysiology-spring-2002/fbde0a5c6b18f1ccef26d34af9960c28_problem_set_3.pdf
+file: /courses/9-16-cellular-neurophysiology-spring-2002/fbde0a5c6b18f1ccef26d34af9960c28_problem_set_3.pdf
 file_size: 75322
 file_type: application/pdf
 learning_resource_types:
