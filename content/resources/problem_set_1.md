@@ -2,7 +2,7 @@
 content_type: resource
 description: "Assignment to examine general properties of electrically excitable cells\
   \ as revealed by the Hodgkin\u2013Huxley model of the giant axon of the squid. "
-file: /courses/9-16-cellular-neurophysiology-spring-2002/7332dbc0bfaed6385299d0e81fd79d6d_problem_set_1.pdf
+file: /ol-ocw-studio-app/courses/9-16-cellular-neurophysiology-spring-2002/7332dbc0bfaed6385299d0e81fd79d6d_problem_set_1.pdf
 file_size: 83098
 file_type: application/pdf
 learning_resource_types:
