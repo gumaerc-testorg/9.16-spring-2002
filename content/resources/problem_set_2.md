@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In this assignment you will build a simulation of the presynaptic terminal.
-file: /courses/9-16-cellular-neurophysiology-spring-2002/cfd7e3b8231e24250dada390062537ca_problem_set_2.pdf
+file: /ol-ocw-studio-app/courses/9-16-cellular-neurophysiology-spring-2002/cfd7e3b8231e24250dada390062537ca_problem_set_2.pdf
 file_size: 187183
 file_type: application/pdf
 learning_resource_types:
